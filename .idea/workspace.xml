@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd23a260-cde1-4dc7-9085-6bba0cc8b4aa" name="Changes" comment="Hello World IntelliJ">
-      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CopyArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiDimensionArray.java" afterDir="false" />
+    <list default="true" id="fd23a260-cde1-4dc7-9085-6bba0cc8b4aa" name="Changes" comment="Array">
+      <change afterPath="$PROJECT_DIR$/src/RandomClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +54,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CopyArray">
+  <component name="RunManager" selected="Application.RandomClass">
     <configuration name="CopyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CopyArray" />
       <module name="HelloWorld" />
@@ -85,8 +83,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RandomClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomClass" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RandomClass" />
         <item itemvalue="Application.CopyArray" />
         <item itemvalue="Application.MultiDimensionArray" />
         <item itemvalue="Application.Main" />
@@ -111,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700379490287</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Array">
+      <option name="closed" value="true" />
+      <created>1700711240483</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700711240483</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,6 +141,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hello World IntelliJ" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello World IntelliJ" />
+    <MESSAGE value="Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array" />
   </component>
 </project>
