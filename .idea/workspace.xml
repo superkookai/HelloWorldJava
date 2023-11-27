@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd23a260-cde1-4dc7-9085-6bba0cc8b4aa" name="Changes" comment="Method and Method Overloading">
-      <change afterPath="$PROJECT_DIR$/src/ClassChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConstructorChallenge.java" afterDir="false" />
+    <list default="true" id="fd23a260-cde1-4dc7-9085-6bba0cc8b4aa" name="Changes" comment="Class and Constructor Challenges.">
+      <change afterPath="$PROJECT_DIR$/src/recordexample/LPAStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recordexample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recordexample/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -55,7 +57,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ConstructorChallenge">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="ClassChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ClassChallenge" />
       <module name="HelloWorld" />
@@ -70,9 +72,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MethodChallenge" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recordexample.Main" />
       <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recordexample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -93,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ConstructorChallenge" />
         <item itemvalue="Application.ClassChallenge" />
         <item itemvalue="Application.MethodOverloading2" />
         <item itemvalue="Application.MethodOverloading" />
-        <item itemvalue="Application.MethodChallenge" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700800024696</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Class and Constructor Challenges.">
+      <option name="closed" value="true" />
+      <created>1700983414057</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700983414057</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +186,7 @@
     <MESSAGE value="Random class" />
     <MESSAGE value="Scanner class" />
     <MESSAGE value="Method and Method Overloading" />
-    <option name="LAST_COMMIT_MESSAGE" value="Method and Method Overloading" />
+    <MESSAGE value="Class and Constructor Challenges." />
+    <option name="LAST_COMMIT_MESSAGE" value="Class and Constructor Challenges." />
   </component>
 </project>
