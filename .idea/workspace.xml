@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd23a260-cde1-4dc7-9085-6bba0cc8b4aa" name="Changes" comment="Carpet calculator.">
-      <change afterPath="$PROJECT_DIR$/src/inheritance1/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance1/HourlyEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance1/SalaryEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance1/Worker.java" afterDir="false" />
+    <list default="true" id="fd23a260-cde1-4dc7-9085-6bba0cc8b4aa" name="Changes" comment="Inheritance">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ArraysExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ArraysExample02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,27 +56,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.inheritance1.Main">
-    <configuration name="ClassChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClassChallenge" />
-      <module name="HelloWorld" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConstructorChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConstructorChallenge" />
-      <module name="HelloWorld" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recordexample.Main" />
+  <component name="RunManager" selected="Application.ArraysExample02">
+    <configuration name="ArraysExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.ArraysExample" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recordexample.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="carpetExample.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="carpetExample.Main" />
+    <configuration name="ArraysExample02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.ArraysExample02" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="carpetExample.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,26 +83,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="inheritance1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance1.Main" />
+    <configuration name="MultiDimensionArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiDimensionArray" />
       <module name="HelloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inheritance1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomClass" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ScannerClass" />
+      <module name="HelloWorld" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.inheritance1.Main" />
-        <item itemvalue="Application.carpetExample.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ConstructorChallenge" />
-        <item itemvalue="Application.ClassChallenge" />
+        <item itemvalue="Application.ArraysExample02" />
+        <item itemvalue="Application.ArraysExample" />
+        <item itemvalue="Application.ScannerClass" />
+        <item itemvalue="Application.RandomClass" />
+        <item itemvalue="Application.MultiDimensionArray" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701067946322</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Inheritance">
+      <option name="closed" value="true" />
+      <created>1701154802635</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1701154802635</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,6 +218,7 @@
     <MESSAGE value="Class and Constructor Challenges." />
     <MESSAGE value="Record example (compare with Class)" />
     <MESSAGE value="Carpet calculator." />
-    <option name="LAST_COMMIT_MESSAGE" value="Carpet calculator." />
+    <MESSAGE value="Inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance" />
   </component>
 </project>
